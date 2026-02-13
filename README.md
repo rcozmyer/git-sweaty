@@ -91,13 +91,13 @@ You can switch between `strava` and `garmin` any time, even after initial setup.
             ```
    
             The response will contain several values. You'll need the `refresh_token`. For example if it shows `..."refresh_token":"ABC123"...`, copy the value `ABC123` for use in the next step.
-          - Add GitHub secrets (repo → [Settings → Secrets and variables → Actions](../../settings/secrets/actions)):
-            - Secret name: `STRAVA_CLIENT_ID`
-               - Secret value: The `Client ID` value from step 2 above
-            - Secret name: `STRAVA_CLIENT_SECRET`
-               - Secret value: The `Client Secret` value from step 2 above
-            - Secret name: `STRAVA_REFRESH_TOKEN`
-               - Secret value: The `refresh_token` value from the step 3 OAuth exchange above
+       - Add GitHub secrets (repo → [Settings → Secrets and variables → Actions](../../settings/secrets/actions)):
+         - Secret name: `STRAVA_CLIENT_ID`
+            - Secret value: The `Client ID` value from step 2 above
+         - Secret name: `STRAVA_CLIENT_SECRET`
+            - Secret value: The `Client Secret` value from step 2 above
+         - Secret name: `STRAVA_REFRESH_TOKEN`
+            - Secret value: The `refresh_token` value from the step 3 OAuth exchange above
 
 4. Enable GitHub Pages (repo → [Settings → Pages](../../settings/pages)):
    - Under **Build and deployment**, set **Source** to **GitHub Actions**.
