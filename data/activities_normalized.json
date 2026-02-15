@@ -30936,6 +30936,18 @@
     "year": 2026
   },
   {
+    "date": "2026-02-12",
+    "distance": 2261.0,
+    "elevation_gain": 0.0,
+    "id": "17398495735",
+    "moving_time": 155.0,
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-02-12T16:55:35Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
     "date": "2026-02-13",
     "distance": 0.0,
     "elevation_gain": 0.0,
@@ -30945,6 +30957,18 @@
     "raw_type": "WeightTraining",
     "start_date_local": "2026-02-13T15:59:54Z",
     "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-02-14",
+    "distance": 75117.4,
+    "elevation_gain": 819.0,
+    "id": "17399659091",
+    "moving_time": 10232.0,
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-02-14T13:35:48Z",
+    "type": "VirtualRide",
     "year": 2026
   }
 ]
