@@ -18073,6 +18073,13 @@
       "subtype": "WeightTraining",
       "type": "WeightTraining",
       "year": 2026
+    },
+    {
+      "date": "2026-02-16",
+      "hour": 7,
+      "subtype": "Ride",
+      "type": "Ride",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -35968,6 +35975,15 @@
           "distance": 26259.7,
           "elevation_gain": 200.0,
           "moving_time": 4464.0
+        },
+        "2026-02-16": {
+          "activity_ids": [
+            "17421792042"
+          ],
+          "count": 1,
+          "distance": 26217.5,
+          "elevation_gain": 191.0,
+          "moving_time": 4881.0
         }
       },
       "VirtualRide": {
@@ -36171,7 +36187,7 @@
       }
     }
   },
-  "generated_at": "2026-02-16T15:37:08.709728+00:00",
+  "generated_at": "2026-02-17T15:48:09.766316+00:00",
   "other_bucket": "OtherSports",
   "source": "strava",
   "type_meta": {
