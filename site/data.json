@@ -18143,6 +18143,13 @@
       "subtype": "Ride",
       "type": "Ride",
       "year": 2026
+    },
+    {
+      "date": "2026-03-02",
+      "hour": 21,
+      "subtype": "Yoga",
+      "type": "Yoga",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -36312,10 +36319,21 @@
           "elevation_gain": 0.0,
           "moving_time": 1546.0
         }
+      },
+      "Yoga": {
+        "2026-03-02": {
+          "activity_ids": [
+            "17583505848"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1845.0
+        }
       }
     }
   },
-  "generated_at": "2026-03-02T15:37:35.917415+00:00",
+  "generated_at": "2026-03-03T15:43:16.699741+00:00",
   "other_bucket": "OtherSports",
   "source": "strava",
   "type_meta": {

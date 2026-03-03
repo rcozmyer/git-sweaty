@@ -31102,5 +31102,17 @@
     "start_date_local": "2026-02-28T14:40:02Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-03-02",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17583505848",
+    "moving_time": 1845.0,
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
+    "start_date_local": "2026-03-02T21:23:07Z",
+    "type": "Yoga",
+    "year": 2026
   }
 ]
