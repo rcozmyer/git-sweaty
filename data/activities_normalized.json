@@ -31114,5 +31114,41 @@
     "start_date_local": "2026-03-02T21:23:07Z",
     "type": "Yoga",
     "year": 2026
+  },
+  {
+    "date": "2026-03-03",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17590622917",
+    "moving_time": 287.0,
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-03-03T11:27:54Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-03",
+    "distance": 1220.2,
+    "elevation_gain": 10.0,
+    "id": "17593112159",
+    "moving_time": 221.0,
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-03T14:37:12Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-03",
+    "distance": 29376.4,
+    "elevation_gain": 520.0,
+    "id": "17593763999",
+    "moving_time": 4378.0,
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-03T14:42:09Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
