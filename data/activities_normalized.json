@@ -31198,5 +31198,41 @@
     "start_date_local": "2026-03-08T10:16:53Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-03-10",
+    "distance": 1830.2,
+    "elevation_gain": 0.0,
+    "id": "17679082699",
+    "moving_time": 2586.0,
+    "raw_activity_type": "Workout",
+    "raw_type": "Pickleball",
+    "start_date_local": "2026-03-10T17:26:33Z",
+    "type": "Pickleball",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-10",
+    "distance": 833.8,
+    "elevation_gain": 9.0,
+    "id": "17679128564",
+    "moving_time": 164.0,
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-10T17:19:12Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-10",
+    "distance": 834.7,
+    "elevation_gain": 17.0,
+    "id": "17679128882",
+    "moving_time": 200.0,
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-10T18:15:16Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
