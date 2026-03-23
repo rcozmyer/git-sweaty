@@ -18297,6 +18297,13 @@
       "subtype": "Walk",
       "type": "Walk",
       "year": 2026
+    },
+    {
+      "date": "2026-03-22",
+      "hour": 7,
+      "subtype": "Ride",
+      "type": "Ride",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -36268,6 +36275,15 @@
           "distance": 40792.4,
           "elevation_gain": 394.0,
           "moving_time": 6653.0
+        },
+        "2026-03-22": {
+          "activity_ids": [
+            "17820483506"
+          ],
+          "count": 1,
+          "distance": 126031.0,
+          "elevation_gain": 1326.0,
+          "moving_time": 20168.0
         }
       },
       "VirtualRide": {
@@ -36647,7 +36663,7 @@
       }
     }
   },
-  "generated_at": "2026-03-22T15:21:34.373920+00:00",
+  "generated_at": "2026-03-23T15:56:44.309970+00:00",
   "other_bucket": "OtherSports",
   "source": "strava",
   "type_meta": {
