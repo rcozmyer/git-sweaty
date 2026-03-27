@@ -31402,5 +31402,17 @@
     "start_date_local": "2026-03-25T16:57:28Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-03-26",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17872836986",
+    "moving_time": 1636.0,
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
+    "start_date_local": "2026-03-26T21:50:56Z",
+    "type": "Yoga",
+    "year": 2026
   }
 ]
