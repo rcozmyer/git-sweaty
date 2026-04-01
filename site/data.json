@@ -18346,6 +18346,13 @@
       "subtype": "Ride",
       "type": "Ride",
       "year": 2026
+    },
+    {
+      "date": "2026-03-31",
+      "hour": 20,
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -36726,6 +36733,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 390.0
+        },
+        "2026-03-31": {
+          "activity_ids": [
+            "17932703781"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1808.0
         }
       },
       "Yoga": {
@@ -36759,7 +36775,7 @@
       }
     }
   },
-  "generated_at": "2026-03-31T16:02:51.288558+00:00",
+  "generated_at": "2026-04-01T16:07:03.013505+00:00",
   "other_bucket": "OtherSports",
   "source": "strava",
   "type_meta": {
