@@ -18367,6 +18367,20 @@
       "subtype": "Walk",
       "type": "Walk",
       "year": 2026
+    },
+    {
+      "date": "2026-04-06",
+      "hour": 13,
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-06",
+      "hour": 7,
+      "subtype": "Ride",
+      "type": "Ride",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -36374,6 +36388,15 @@
           "distance": 26033.2,
           "elevation_gain": 176.0,
           "moving_time": 4423.0
+        },
+        "2026-04-06": {
+          "activity_ids": [
+            "18005420086"
+          ],
+          "count": 1,
+          "distance": 26697.4,
+          "elevation_gain": 183.0,
+          "moving_time": 4443.0
         }
       },
       "VirtualRide": {
@@ -36774,6 +36797,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 327.0
+        },
+        "2026-04-06": {
+          "activity_ids": [
+            "18003935331"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 390.0
         }
       },
       "Yoga": {
@@ -36807,7 +36839,7 @@
       }
     }
   },
-  "generated_at": "2026-04-06T15:41:42.135634+00:00",
+  "generated_at": "2026-04-07T16:07:58.543758+00:00",
   "other_bucket": "OtherSports",
   "source": "strava",
   "type_meta": {
