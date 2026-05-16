@@ -18612,6 +18612,27 @@
       "subtype": "Ride",
       "type": "Ride",
       "year": 2026
+    },
+    {
+      "date": "2026-05-15",
+      "hour": 12,
+      "subtype": "Ride",
+      "type": "Ride",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-15",
+      "hour": 14,
+      "subtype": "Walk",
+      "type": "Walk",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-16",
+      "hour": 7,
+      "subtype": "Ride",
+      "type": "Ride",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -36791,6 +36812,24 @@
           "distance": 25201.9,
           "elevation_gain": 384.0,
           "moving_time": 4169.0
+        },
+        "2026-05-15": {
+          "activity_ids": [
+            "18519955869"
+          ],
+          "count": 1,
+          "distance": 8810.3,
+          "elevation_gain": 82.0,
+          "moving_time": 2340.0
+        },
+        "2026-05-16": {
+          "activity_ids": [
+            "18530500968"
+          ],
+          "count": 1,
+          "distance": 6424.0,
+          "elevation_gain": 82.0,
+          "moving_time": 1720.0
         }
       },
       "VirtualRide": {
@@ -37047,6 +37086,15 @@
           "distance": 2430.7,
           "elevation_gain": 11.0,
           "moving_time": 1878.0
+        },
+        "2026-05-15": {
+          "activity_ids": [
+            "18521323136"
+          ],
+          "count": 1,
+          "distance": 4051.3,
+          "elevation_gain": 36.0,
+          "moving_time": 4682.0
         }
       },
       "WeightTraining": {
@@ -37343,7 +37391,7 @@
       }
     }
   },
-  "generated_at": "2026-05-15T16:48:39.723581+00:00",
+  "generated_at": "2026-05-16T15:54:20.841221+00:00",
   "other_bucket": "OtherSports",
   "source": "strava",
   "type_meta": {
