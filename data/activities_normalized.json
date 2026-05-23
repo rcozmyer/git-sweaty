@@ -29976,42 +29976,6 @@
     "year": 2025
   },
   {
-    "date": "2025-09-23",
-    "distance": 0.0,
-    "elevation_gain": 0.0,
-    "id": "15916782182",
-    "moving_time": 937.0,
-    "raw_activity_type": "Yoga",
-    "raw_type": "Yoga",
-    "start_date_local": "2025-09-23T21:22:53Z",
-    "type": "Yoga",
-    "year": 2025
-  },
-  {
-    "date": "2025-09-24",
-    "distance": 1150.0,
-    "elevation_gain": 0.0,
-    "id": "15925154063",
-    "moving_time": 205.0,
-    "raw_activity_type": "VirtualRide",
-    "raw_type": "VirtualRide",
-    "start_date_local": "2025-09-24T14:53:31Z",
-    "type": "VirtualRide",
-    "year": 2025
-  },
-  {
-    "date": "2025-09-24",
-    "distance": 16676.3,
-    "elevation_gain": 0.0,
-    "id": "15925414705",
-    "moving_time": 2155.0,
-    "raw_activity_type": "VirtualRide",
-    "raw_type": "VirtualRide",
-    "start_date_local": "2025-09-24T14:57:12Z",
-    "type": "VirtualRide",
-    "year": 2025
-  },
-  {
     "date": "2025-09-25",
     "distance": 26040.1,
     "elevation_gain": 169.0,
@@ -30045,18 +30009,6 @@
     "raw_type": "Ride",
     "start_date_local": "2025-09-26T14:16:34Z",
     "type": "Ride",
-    "year": 2025
-  },
-  {
-    "date": "2025-09-26",
-    "distance": 1740.8,
-    "elevation_gain": 11.0,
-    "id": "15947068532",
-    "moving_time": 2161.0,
-    "raw_activity_type": "Walk",
-    "raw_type": "Walk",
-    "start_date_local": "2025-09-26T17:43:54Z",
-    "type": "Walk",
     "year": 2025
   },
   {
@@ -30313,18 +30265,6 @@
   },
   {
     "date": "2025-10-14",
-    "distance": 587.7,
-    "elevation_gain": 8.0,
-    "id": "16142722430",
-    "moving_time": 834.0,
-    "raw_activity_type": "Walk",
-    "raw_type": "Walk",
-    "start_date_local": "2025-10-14T16:46:53Z",
-    "type": "Walk",
-    "year": 2025
-  },
-  {
-    "date": "2025-10-14",
     "distance": 1862.1,
     "elevation_gain": 33.0,
     "id": "16142827725",
@@ -30489,18 +30429,6 @@
     "raw_type": "Walk",
     "start_date_local": "2025-11-27T15:55:06Z",
     "type": "Walk",
-    "year": 2025
-  },
-  {
-    "date": "2025-11-28",
-    "distance": 25459.4,
-    "elevation_gain": 0.0,
-    "id": "16596318214",
-    "moving_time": 3493.0,
-    "raw_activity_type": "VirtualRide",
-    "raw_type": "VirtualRide",
-    "start_date_local": "2025-11-28T20:03:00Z",
-    "type": "VirtualRide",
     "year": 2025
   },
   {
@@ -30720,18 +30648,6 @@
     "year": 2026
   },
   {
-    "date": "2026-01-27",
-    "distance": 0.0,
-    "elevation_gain": 0.0,
-    "id": "17200853564",
-    "moving_time": 1347.0,
-    "raw_activity_type": "WeightTraining",
-    "raw_type": "WeightTraining",
-    "start_date_local": "2026-01-27T19:37:16Z",
-    "type": "WeightTraining",
-    "year": 2026
-  },
-  {
     "date": "2026-01-28",
     "distance": 15842.5,
     "elevation_gain": 171.0,
@@ -30741,18 +30657,6 @@
     "raw_type": "VirtualRide",
     "start_date_local": "2026-01-28T16:54:07Z",
     "type": "VirtualRide",
-    "year": 2026
-  },
-  {
-    "date": "2026-01-29",
-    "distance": 0.0,
-    "elevation_gain": 0.0,
-    "id": "17221411747",
-    "moving_time": 2146.0,
-    "raw_activity_type": "WeightTraining",
-    "raw_type": "WeightTraining",
-    "start_date_local": "2026-01-29T15:13:07Z",
-    "type": "WeightTraining",
     "year": 2026
   },
   {
@@ -30816,18 +30720,6 @@
     "year": 2026
   },
   {
-    "date": "2026-02-04",
-    "distance": 0.0,
-    "elevation_gain": 0.0,
-    "id": "17289808337",
-    "moving_time": 1362.0,
-    "raw_activity_type": "WeightTraining",
-    "raw_type": "WeightTraining",
-    "start_date_local": "2026-02-04T17:14:38Z",
-    "type": "WeightTraining",
-    "year": 2026
-  },
-  {
     "date": "2026-02-06",
     "distance": 30558.5,
     "elevation_gain": 412.0,
@@ -30837,18 +30729,6 @@
     "raw_type": "VirtualRide",
     "start_date_local": "2026-02-06T09:04:12Z",
     "type": "VirtualRide",
-    "year": 2026
-  },
-  {
-    "date": "2026-02-07",
-    "distance": 0.0,
-    "elevation_gain": 0.0,
-    "id": "17321211928",
-    "moving_time": 1288.0,
-    "raw_activity_type": "WeightTraining",
-    "raw_type": "WeightTraining",
-    "start_date_local": "2026-02-07T13:40:24Z",
-    "type": "WeightTraining",
     "year": 2026
   },
   {
@@ -30873,30 +30753,6 @@
     "raw_type": "Ride",
     "start_date_local": "2026-02-10T07:16:16Z",
     "type": "Ride",
-    "year": 2026
-  },
-  {
-    "date": "2026-02-10",
-    "distance": 0.0,
-    "elevation_gain": 0.0,
-    "id": "17358654778",
-    "moving_time": 214.0,
-    "raw_activity_type": "WeightTraining",
-    "raw_type": "WeightTraining",
-    "start_date_local": "2026-02-10T22:41:42Z",
-    "type": "WeightTraining",
-    "year": 2026
-  },
-  {
-    "date": "2026-02-11",
-    "distance": 0.0,
-    "elevation_gain": 0.0,
-    "id": "17369457402",
-    "moving_time": 1587.0,
-    "raw_activity_type": "WeightTraining",
-    "raw_type": "WeightTraining",
-    "start_date_local": "2026-02-11T20:23:20Z",
-    "type": "WeightTraining",
     "year": 2026
   },
   {
@@ -30948,18 +30804,6 @@
     "year": 2026
   },
   {
-    "date": "2026-02-13",
-    "distance": 0.0,
-    "elevation_gain": 0.0,
-    "id": "17388453840",
-    "moving_time": 2127.0,
-    "raw_activity_type": "WeightTraining",
-    "raw_type": "WeightTraining",
-    "start_date_local": "2026-02-13T15:59:54Z",
-    "type": "WeightTraining",
-    "year": 2026
-  },
-  {
     "date": "2026-02-14",
     "distance": 75117.4,
     "elevation_gain": 819.0,
@@ -30969,18 +30813,6 @@
     "raw_type": "VirtualRide",
     "start_date_local": "2026-02-14T13:35:48Z",
     "type": "VirtualRide",
-    "year": 2026
-  },
-  {
-    "date": "2026-02-15",
-    "distance": 0.0,
-    "elevation_gain": 0.0,
-    "id": "17408748577",
-    "moving_time": 229.0,
-    "raw_activity_type": "WeightTraining",
-    "raw_type": "WeightTraining",
-    "start_date_local": "2026-02-15T11:39:56Z",
-    "type": "WeightTraining",
     "year": 2026
   },
   {
@@ -31044,18 +30876,6 @@
     "year": 2026
   },
   {
-    "date": "2026-02-23",
-    "distance": 0.0,
-    "elevation_gain": 0.0,
-    "id": "17500067066",
-    "moving_time": 1546.0,
-    "raw_activity_type": "WeightTraining",
-    "raw_type": "WeightTraining",
-    "start_date_local": "2026-02-23T17:20:50Z",
-    "type": "WeightTraining",
-    "year": 2026
-  },
-  {
     "date": "2026-02-24",
     "distance": 75837.8,
     "elevation_gain": 105.0,
@@ -31104,30 +30924,6 @@
     "year": 2026
   },
   {
-    "date": "2026-03-02",
-    "distance": 0.0,
-    "elevation_gain": 0.0,
-    "id": "17583505848",
-    "moving_time": 1845.0,
-    "raw_activity_type": "Yoga",
-    "raw_type": "Yoga",
-    "start_date_local": "2026-03-02T21:23:07Z",
-    "type": "Yoga",
-    "year": 2026
-  },
-  {
-    "date": "2026-03-03",
-    "distance": 0.0,
-    "elevation_gain": 0.0,
-    "id": "17590622917",
-    "moving_time": 287.0,
-    "raw_activity_type": "WeightTraining",
-    "raw_type": "WeightTraining",
-    "start_date_local": "2026-03-03T11:27:54Z",
-    "type": "WeightTraining",
-    "year": 2026
-  },
-  {
     "date": "2026-03-03",
     "distance": 1220.2,
     "elevation_gain": 10.0,
@@ -31152,18 +30948,6 @@
     "year": 2026
   },
   {
-    "date": "2026-03-04",
-    "distance": 0.0,
-    "elevation_gain": 0.0,
-    "id": "17607616318",
-    "moving_time": 1286.0,
-    "raw_activity_type": "WeightTraining",
-    "raw_type": "WeightTraining",
-    "start_date_local": "2026-03-04T17:49:13Z",
-    "type": "WeightTraining",
-    "year": 2026
-  },
-  {
     "date": "2026-03-05",
     "distance": 26009.0,
     "elevation_gain": 177.0,
@@ -31173,18 +30957,6 @@
     "raw_type": "Ride",
     "start_date_local": "2026-03-05T07:19:07Z",
     "type": "Ride",
-    "year": 2026
-  },
-  {
-    "date": "2026-03-06",
-    "distance": 0.0,
-    "elevation_gain": 0.0,
-    "id": "17630797948",
-    "moving_time": 1567.0,
-    "raw_activity_type": "WeightTraining",
-    "raw_type": "WeightTraining",
-    "start_date_local": "2026-03-06T19:41:55Z",
-    "type": "WeightTraining",
     "year": 2026
   },
   {
@@ -31236,42 +31008,6 @@
     "year": 2026
   },
   {
-    "date": "2026-03-11",
-    "distance": 0.0,
-    "elevation_gain": 0.0,
-    "id": "17692043771",
-    "moving_time": 2035.0,
-    "raw_activity_type": "WeightTraining",
-    "raw_type": "WeightTraining",
-    "start_date_local": "2026-03-11T19:35:23Z",
-    "type": "WeightTraining",
-    "year": 2026
-  },
-  {
-    "date": "2026-03-13",
-    "distance": 0.0,
-    "elevation_gain": 0.0,
-    "id": "17712288118",
-    "moving_time": 107.0,
-    "raw_activity_type": "WeightTraining",
-    "raw_type": "WeightTraining",
-    "start_date_local": "2026-03-13T16:30:23Z",
-    "type": "WeightTraining",
-    "year": 2026
-  },
-  {
-    "date": "2026-03-14",
-    "distance": 0.0,
-    "elevation_gain": 0.0,
-    "id": "17718501066",
-    "moving_time": 1857.0,
-    "raw_activity_type": "WeightTraining",
-    "raw_type": "WeightTraining",
-    "start_date_local": "2026-03-14T06:57:23Z",
-    "type": "WeightTraining",
-    "year": 2026
-  },
-  {
     "date": "2026-03-14",
     "distance": 6784.0,
     "elevation_gain": 86.0,
@@ -31308,30 +31044,6 @@
     "year": 2026
   },
   {
-    "date": "2026-03-17",
-    "distance": 0.0,
-    "elevation_gain": 0.0,
-    "id": "17760310328",
-    "moving_time": 2768.0,
-    "raw_activity_type": "WeightTraining",
-    "raw_type": "WeightTraining",
-    "start_date_local": "2026-03-17T16:51:22Z",
-    "type": "WeightTraining",
-    "year": 2026
-  },
-  {
-    "date": "2026-03-19",
-    "distance": 0.0,
-    "elevation_gain": 0.0,
-    "id": "17780396684",
-    "moving_time": 358.0,
-    "raw_activity_type": "WeightTraining",
-    "raw_type": "WeightTraining",
-    "start_date_local": "2026-03-19T10:41:00Z",
-    "type": "WeightTraining",
-    "year": 2026
-  },
-  {
     "date": "2026-03-19",
     "distance": 12205.7,
     "elevation_gain": 77.0,
@@ -31341,18 +31053,6 @@
     "raw_type": "VirtualRide",
     "start_date_local": "2026-03-19T14:19:31Z",
     "type": "VirtualRide",
-    "year": 2026
-  },
-  {
-    "date": "2026-03-21",
-    "distance": 0.0,
-    "elevation_gain": 0.0,
-    "id": "17804583680",
-    "moving_time": 1068.0,
-    "raw_activity_type": "Yoga",
-    "raw_type": "Yoga",
-    "start_date_local": "2026-03-21T10:01:09Z",
-    "type": "Yoga",
     "year": 2026
   },
   {
@@ -31392,30 +31092,6 @@
     "year": 2026
   },
   {
-    "date": "2026-03-25",
-    "distance": 0.0,
-    "elevation_gain": 0.0,
-    "id": "17859087042",
-    "moving_time": 2049.0,
-    "raw_activity_type": "WeightTraining",
-    "raw_type": "WeightTraining",
-    "start_date_local": "2026-03-25T16:57:28Z",
-    "type": "WeightTraining",
-    "year": 2026
-  },
-  {
-    "date": "2026-03-26",
-    "distance": 0.0,
-    "elevation_gain": 0.0,
-    "id": "17872836986",
-    "moving_time": 1636.0,
-    "raw_activity_type": "Yoga",
-    "raw_type": "Yoga",
-    "start_date_local": "2026-03-26T21:50:56Z",
-    "type": "Yoga",
-    "year": 2026
-  },
-  {
     "date": "2026-03-28",
     "distance": 99871.1,
     "elevation_gain": 1040.0,
@@ -31429,18 +31105,6 @@
   },
   {
     "date": "2026-03-30",
-    "distance": 0.0,
-    "elevation_gain": 0.0,
-    "id": "17916014512",
-    "moving_time": 390.0,
-    "raw_activity_type": "WeightTraining",
-    "raw_type": "WeightTraining",
-    "start_date_local": "2026-03-30T13:46:46Z",
-    "type": "WeightTraining",
-    "year": 2026
-  },
-  {
-    "date": "2026-03-30",
     "distance": 26033.2,
     "elevation_gain": 176.0,
     "id": "17917854276",
@@ -31449,54 +31113,6 @@
     "raw_type": "Ride",
     "start_date_local": "2026-03-30T07:13:31Z",
     "type": "Ride",
-    "year": 2026
-  },
-  {
-    "date": "2026-03-31",
-    "distance": 0.0,
-    "elevation_gain": 0.0,
-    "id": "17932703781",
-    "moving_time": 1808.0,
-    "raw_activity_type": "WeightTraining",
-    "raw_type": "WeightTraining",
-    "start_date_local": "2026-03-31T20:27:16Z",
-    "type": "WeightTraining",
-    "year": 2026
-  },
-  {
-    "date": "2026-04-01",
-    "distance": 0.0,
-    "elevation_gain": 0.0,
-    "id": "17941923554",
-    "moving_time": 327.0,
-    "raw_activity_type": "WeightTraining",
-    "raw_type": "WeightTraining",
-    "start_date_local": "2026-04-01T14:06:28Z",
-    "type": "WeightTraining",
-    "year": 2026
-  },
-  {
-    "date": "2026-04-02",
-    "distance": 1427.1,
-    "elevation_gain": 17.0,
-    "id": "17955309698",
-    "moving_time": 1074.0,
-    "raw_activity_type": "Walk",
-    "raw_type": "Walk",
-    "start_date_local": "2026-04-02T15:52:37Z",
-    "type": "Walk",
-    "year": 2026
-  },
-  {
-    "date": "2026-04-06",
-    "distance": 0.0,
-    "elevation_gain": 0.0,
-    "id": "18003935331",
-    "moving_time": 390.0,
-    "raw_activity_type": "WeightTraining",
-    "raw_type": "WeightTraining",
-    "start_date_local": "2026-04-06T13:40:10Z",
-    "type": "WeightTraining",
     "year": 2026
   },
   {
@@ -31513,18 +31129,6 @@
   },
   {
     "date": "2026-04-07",
-    "distance": 0.0,
-    "elevation_gain": 0.0,
-    "id": "18018222062",
-    "moving_time": 447.0,
-    "raw_activity_type": "WeightTraining",
-    "raw_type": "WeightTraining",
-    "start_date_local": "2026-04-07T14:54:34Z",
-    "type": "WeightTraining",
-    "year": 2026
-  },
-  {
-    "date": "2026-04-07",
     "distance": 26017.1,
     "elevation_gain": 184.0,
     "id": "18019235165",
@@ -31533,30 +31137,6 @@
     "raw_type": "Ride",
     "start_date_local": "2026-04-07T07:39:39Z",
     "type": "Ride",
-    "year": 2026
-  },
-  {
-    "date": "2026-04-10",
-    "distance": 1373.2,
-    "elevation_gain": 26.0,
-    "id": "18060886824",
-    "moving_time": 959.0,
-    "raw_activity_type": "Walk",
-    "raw_type": "Walk",
-    "start_date_local": "2026-04-10T18:22:51Z",
-    "type": "Walk",
-    "year": 2026
-  },
-  {
-    "date": "2026-04-11",
-    "distance": 0.0,
-    "elevation_gain": 0.0,
-    "id": "18071644647",
-    "moving_time": 1609.0,
-    "raw_activity_type": "WeightTraining",
-    "raw_type": "WeightTraining",
-    "start_date_local": "2026-04-11T16:06:04Z",
-    "type": "WeightTraining",
     "year": 2026
   },
   {
@@ -31585,18 +31165,6 @@
   },
   {
     "date": "2026-04-16",
-    "distance": 0.0,
-    "elevation_gain": 0.0,
-    "id": "18137126830",
-    "moving_time": 316.0,
-    "raw_activity_type": "WeightTraining",
-    "raw_type": "WeightTraining",
-    "start_date_local": "2026-04-16T15:32:53Z",
-    "type": "WeightTraining",
-    "year": 2026
-  },
-  {
-    "date": "2026-04-16",
     "distance": 26228.7,
     "elevation_gain": 174.0,
     "id": "18137876365",
@@ -31620,30 +31188,6 @@
     "year": 2026
   },
   {
-    "date": "2026-04-17",
-    "distance": 2843.8,
-    "elevation_gain": 59.0,
-    "id": "18151104143",
-    "moving_time": 3378.0,
-    "raw_activity_type": "Walk",
-    "raw_type": "Walk",
-    "start_date_local": "2026-04-17T08:13:44Z",
-    "type": "Walk",
-    "year": 2026
-  },
-  {
-    "date": "2026-04-17",
-    "distance": 4005.6,
-    "elevation_gain": 52.0,
-    "id": "18152762062",
-    "moving_time": 2677.0,
-    "raw_activity_type": "Walk",
-    "raw_type": "Walk",
-    "start_date_local": "2026-04-17T19:37:31Z",
-    "type": "Walk",
-    "year": 2026
-  },
-  {
     "date": "2026-04-20",
     "distance": 35022.3,
     "elevation_gain": 386.0,
@@ -31653,30 +31197,6 @@
     "raw_type": "Ride",
     "start_date_local": "2026-04-20T18:33:45Z",
     "type": "Ride",
-    "year": 2026
-  },
-  {
-    "date": "2026-04-21",
-    "distance": 0.0,
-    "elevation_gain": 0.0,
-    "id": "18202314413",
-    "moving_time": 2401.0,
-    "raw_activity_type": "Yoga",
-    "raw_type": "Yoga",
-    "start_date_local": "2026-04-21T13:10:21Z",
-    "type": "Yoga",
-    "year": 2026
-  },
-  {
-    "date": "2026-04-23",
-    "distance": 0.0,
-    "elevation_gain": 0.0,
-    "id": "18231821706",
-    "moving_time": 1680.0,
-    "raw_activity_type": "WeightTraining",
-    "raw_type": "WeightTraining",
-    "start_date_local": "2026-04-23T16:40:17Z",
-    "type": "WeightTraining",
     "year": 2026
   },
   {
@@ -31728,30 +31248,6 @@
     "year": 2026
   },
   {
-    "date": "2026-04-30",
-    "distance": 0.0,
-    "elevation_gain": 0.0,
-    "id": "18323281814",
-    "moving_time": 313.0,
-    "raw_activity_type": "WeightTraining",
-    "raw_type": "WeightTraining",
-    "start_date_local": "2026-04-30T14:23:49Z",
-    "type": "WeightTraining",
-    "year": 2026
-  },
-  {
-    "date": "2026-05-01",
-    "distance": 6236.3,
-    "elevation_gain": 52.0,
-    "id": "18339250158",
-    "moving_time": 9402.0,
-    "raw_activity_type": "Walk",
-    "raw_type": "Walk",
-    "start_date_local": "2026-05-01T15:49:52Z",
-    "type": "Walk",
-    "year": 2026
-  },
-  {
     "date": "2026-05-02",
     "distance": 125730.0,
     "elevation_gain": 1245.0,
@@ -31761,18 +31257,6 @@
     "raw_type": "Ride",
     "start_date_local": "2026-05-02T06:52:58Z",
     "type": "Ride",
-    "year": 2026
-  },
-  {
-    "date": "2026-05-04",
-    "distance": 1696.5,
-    "elevation_gain": 3.0,
-    "id": "18371937477",
-    "moving_time": 1223.0,
-    "raw_activity_type": "Walk",
-    "raw_type": "Walk",
-    "start_date_local": "2026-05-04T08:07:16Z",
-    "type": "Walk",
     "year": 2026
   },
   {
@@ -31797,18 +31281,6 @@
     "raw_type": "Ride",
     "start_date_local": "2026-05-04T17:03:22Z",
     "type": "Ride",
-    "year": 2026
-  },
-  {
-    "date": "2026-05-04",
-    "distance": 734.2,
-    "elevation_gain": 8.0,
-    "id": "18379636338",
-    "moving_time": 655.0,
-    "raw_activity_type": "Walk",
-    "raw_type": "Walk",
-    "start_date_local": "2026-05-04T20:15:03Z",
-    "type": "Walk",
     "year": 2026
   },
   {
@@ -31861,18 +31333,6 @@
   },
   {
     "date": "2026-05-12",
-    "distance": 0.0,
-    "elevation_gain": 0.0,
-    "id": "18482103947",
-    "moving_time": 311.0,
-    "raw_activity_type": "WeightTraining",
-    "raw_type": "WeightTraining",
-    "start_date_local": "2026-05-12T14:39:01Z",
-    "type": "WeightTraining",
-    "year": 2026
-  },
-  {
-    "date": "2026-05-12",
     "distance": 28465.9,
     "elevation_gain": 297.0,
     "id": "18485128627",
@@ -31917,18 +31377,6 @@
     "raw_type": "Ride",
     "start_date_local": "2026-05-15T12:32:06Z",
     "type": "Ride",
-    "year": 2026
-  },
-  {
-    "date": "2026-05-15",
-    "distance": 4051.3,
-    "elevation_gain": 36.0,
-    "id": "18521323136",
-    "moving_time": 4682.0,
-    "raw_activity_type": "Walk",
-    "raw_type": "Walk",
-    "start_date_local": "2026-05-15T14:58:32Z",
-    "type": "Walk",
     "year": 2026
   },
   {
